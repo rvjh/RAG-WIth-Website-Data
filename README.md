@@ -1,3 +1,3 @@
 RAG with Ollama
 
-[![Uploading image.png…]()](https://github.com/rvjh/RAG-WIth-Website-Data/blob/main/Screenshot%202024-03-30%20175947.png)
+![image](https://github.com/rvjh/RAG-WIth-Website-Data/assets/25612051/d05823be-16f9-4136-a507-b0b93b766eab)
